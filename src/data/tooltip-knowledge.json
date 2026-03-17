@@ -1097,6 +1097,18 @@
       "hahnemann"
     ]
   },
+    "ta": {
+  "definition": "ஒரு ஆரோக்கியமான மனிதரில் செயற்கையாக ஏற்படும் அறிகுறிகளை உண்டாக்கும் மருந்துகளை பயன்படுத்தி, இயற்கையாக ஏற்படும் நோய்களை சிகிச்சையளிக்கும் ஒரு சிறப்பு மருந்து சிகிச்சை முறை.",
+  "contextual_explanation": "'ஹோமியோபதி என்பது ஒரு சிறப்பு மருந்து சிகிச்சை முறையாகும். இது ஒரு மனிதனின் இயற்கையான நோய்களை, ஆரோக்கியமான மனிதரில் அதே போன்ற செயற்கை அறிகுறிகளை உண்டாக்கும் மருந்துகளை வழங்குவதன் மூலம் குணப்படுத்துகிறது.'",
+  "detailed_explanation": "ஹோமியோபதி 'Similia Similibus Curentur' (ஒத்தவை ஒத்தவற்றால் குணமாகும்) என்ற சிகிச்சை விதியை அடிப்படையாகக் கொண்டது. இதில் ஆரோக்கியமான மனிதர்களில் மருந்துகளை சோதனை செய்து, அவற்றின் விளைவுகளை பதிவு செய்கின்றனர். இது ஹோமியோபதி Materia Medica-வின் அடிப்படையாகும்.",
+  "example": "ஹோமியோபதி மருந்துகள்: 'ஹானிமேன் காலத்திலிருந்து இன்றைய வரை உள்ள அதிகாரப்பூர்வ Materia Medica நூல்களில் பதிவு செய்யப்பட்டுள்ள எந்தப் பொருளும் ஹோமியோபதி மருந்தாக கருதப்படுகிறது.'",
+  "related_concepts": [
+    "similia_similibus_curentur",
+    "drug_proving",
+    "materia_medica",
+    "hahnemann"
+  ]
+},
   "hi": {
     "definition": "औषधि उपचार की एक विशेष पद्धति जो स्वस्थ मनुष्य में समान, कृत्रिम पीड़ा उत्पन्न करने वाली दवाओं के माध्यम से प्राकृतिक रोगों का उपचार करती है।",
     "contextual_explanation": "H.P.I. पृष्ठ 12 संदर्भ: 'Homoeopathy, as a specialized method of drug therapy is a therapeutic method of curing the natural sufferings of a man by the administration of drugs which have been experimentally proved to possess power of producing similar, artificial suffering in a healthy human being.'",
